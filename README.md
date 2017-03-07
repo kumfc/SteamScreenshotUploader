@@ -1,3 +1,2 @@
-# SteamScreenshotUploader
+# SteamScreenshotUploaderGUI
 ツ
-
