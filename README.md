@@ -1,3 +1,3 @@
 # SteamScreenshotUploader
-¯\_(ツ)_/¯
+ツ
 
