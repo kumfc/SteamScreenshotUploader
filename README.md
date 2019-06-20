@@ -1,2 +1,3 @@
 # SteamScreenshotUploaderGUI
-ツ
+
+.NET GUI for SteamScreenshotUploader tool
